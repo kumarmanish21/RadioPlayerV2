@@ -1,7 +1,7 @@
 Pyrogram==2.0.106
 TgCrypto==1.2.2
 ffmpeg-python
-py-tgcalls==3.0.0.dev24
+py-tgcalls==0.9.7
 wheel
 psutil
 tgintegration
